@@ -14,11 +14,11 @@ namespace ClassTask.Model
         {
             this.model = model;
         }
-        public bicycle(string model, string color) : base(model)
+        public bicycle(string model, string color) : this(model)
         {
             this.color = color;
         }
-        public bicycle(string model, string color,int cycle):base(model,color)
+        public bicycle(string model, string color,int cycle):this(model,color)
         {
             this.cycle = cycle;
         }
@@ -37,6 +37,7 @@ namespace ClassTask.Model
 
         }
 
+        
 
 
     }

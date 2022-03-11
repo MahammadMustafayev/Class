@@ -12,6 +12,7 @@ namespace ClassTask.Model
         public int passengercount;
         public int drivetime;
         public string model;
+        
 
         public Vehicle()
         {
@@ -26,10 +27,9 @@ namespace ClassTask.Model
         {
             this.color = color;
         }
-        public void GetSpeed(string model, string color)
+        public void GetSpeed()
         {
-
-            Console.WriteLine($"{color} {model}");
+            Console.WriteLine("GetSpeed:" +driveway/drivetime);
         }
 
     }

@@ -1,0 +1,13 @@
+C:\Users\admin\OneDrive\İş masası\Class\ClassTask\ClassTask\bin\Debug\netcoreapp3.1\ClassTask.exe
+C:\Users\admin\OneDrive\İş masası\Class\ClassTask\ClassTask\bin\Debug\netcoreapp3.1\ClassTask.deps.json
+C:\Users\admin\OneDrive\İş masası\Class\ClassTask\ClassTask\bin\Debug\netcoreapp3.1\ClassTask.runtimeconfig.json
+C:\Users\admin\OneDrive\İş masası\Class\ClassTask\ClassTask\bin\Debug\netcoreapp3.1\ClassTask.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\İş masası\Class\ClassTask\ClassTask\bin\Debug\netcoreapp3.1\ClassTask.dll
+C:\Users\admin\OneDrive\İş masası\Class\ClassTask\ClassTask\bin\Debug\netcoreapp3.1\ClassTask.pdb
+C:\Users\admin\OneDrive\İş masası\Class\ClassTask\ClassTask\obj\Debug\netcoreapp3.1\ClassTask.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\İş masası\Class\ClassTask\ClassTask\obj\Debug\netcoreapp3.1\ClassTask.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\İş masası\Class\ClassTask\ClassTask\obj\Debug\netcoreapp3.1\ClassTask.AssemblyInfo.cs
+C:\Users\admin\OneDrive\İş masası\Class\ClassTask\ClassTask\obj\Debug\netcoreapp3.1\ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\İş masası\Class\ClassTask\ClassTask\obj\Debug\netcoreapp3.1\ClassTask.dll
+C:\Users\admin\OneDrive\İş masası\Class\ClassTask\ClassTask\obj\Debug\netcoreapp3.1\ClassTask.pdb
+C:\Users\admin\OneDrive\İş masası\Class\ClassTask\ClassTask\obj\Debug\netcoreapp3.1\ClassTask.genruntimeconfig.cache
